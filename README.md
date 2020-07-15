@@ -1,16 +1,16 @@
-### Hi there 👋
+# Vitor Silva
 
-<!--
-**VitorSilv4/VitorSilv4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-Vitor-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/vitornscs/)](https://www.linkedin.com/in/vitornscs/) 
+[![GitHub Badge](https://img.shields.io/badge/-VitorSilv4-171515?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/VitorSilv4)](https://github.com/VitorSilv4)
+[![Gmail Badge](https://img.shields.io/badge/-myGmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vitorlawliet@gmail.com)](mailto:vitorlawliet@gmail.com)
 
-Here are some ideas to get you started:
+## Hello! 😊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Vitor, I'm a developer at TeclaT, but I also work as a freelance.
+
+- 💻 I'm a Full-Stack Developer.
+- 🚀 Techs: HTML, CSS, JavaScript, Node.js, SQL, SCRUM, ReactJS, React Native, PostgreSQL, Django, Ionic and Python.
+
+---
+
+Developed with 💜  by Vitor Silva 👋🏽
