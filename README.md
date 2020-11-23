@@ -6,7 +6,7 @@
 
 ## Hello! 😊
 
-My name is Vitor, I'm a developer at TeclaT, but I also work as a freelance.
+My name is Vitor, I'm a developer.
 
 - 💻 I'm a Full-Stack Developer.
 - 🚀 Techs: HTML, CSS, JavaScript, Node.js, SQL, SCRUM, ReactJS, React Native, PostgreSQL, Django, Ionic and Python.
